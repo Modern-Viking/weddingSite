@@ -10,7 +10,7 @@ const App = function() {
   return (
     <Router>
       <Route exact path="/" component={Wedding}/>
-      <Route exact path="/resume" component={Photos}/>
+      <Route exact path="/photos" component={Photos}/>
       <Route exact path="/registries" component={Registries}/>
       <Route exact path="/rsvp" component={Rsvp}/>
     </Router>
