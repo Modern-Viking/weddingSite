@@ -27,7 +27,9 @@ const Registriesbody = () => {
     <h1 className="title">
       Crate and Barrel
     </h1>
-
+    <a href="https://www.crateandbarrel.com/gift-registry/nick-thomas-and-mary-wilcox/r6120542">
+    <i id="barrel" class="fas fa-home fa-5x"></i>
+    </a>
     </div>
     </div>
   </div>
