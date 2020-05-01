@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 import './App.css';
 import Wedding from './Pages/Wedding';
 import Photos from './Pages/Photos';
-import Registries from './Pages/Photos';
+import Registries from './Pages/Registries';
 import Rsvp from './Pages/Rsvp';
 
 const App = function() {

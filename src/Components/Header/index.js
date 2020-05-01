@@ -1,4 +1,5 @@
 import React from "react";
+import "./index.css";
 
 const Header = () => {
     return(
@@ -14,18 +15,18 @@ const Header = () => {
       
         <div className="hero-body">
           <div className="container has-text-centered">
-            <h1 className="title">
+            <h1 className="title is-size-1">
               Nick and Mary are Getting Married!!!
             </h1>
-            <h2 className="subtitle">
+            <h2 className="subtitle is-size-3">
               Subtitle
             </h2>
           </div>
         </div>
       
-        <div className="hero-foot">
+        <div id="herofoot" className="hero-foot">
           <nav className="tabs">
-            <div className="container">
+            <div className="container is-size-5">
               <ul>
                 <li className="is-active"><a href="/">Wedding</a></li>
                 <li><a href="/photos">Photos</a></li>
