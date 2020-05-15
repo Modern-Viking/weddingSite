@@ -12,7 +12,7 @@ const Registriesbody = () => {
       Target
     </h1>
     <a href="https://www.target.com/gift-registry/giftgiver?registryId=550942f14323439596add4b80532a28b&lnk=registry_custom_url">
-    <i id="target" className="fas fa-bullseye fa-5x"></i>
+    <i id="targetreg" className="fas fa-bullseye fa-5x"></i>
     </a>
     </div>
     <div className="column">
