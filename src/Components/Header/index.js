@@ -18,8 +18,9 @@ const Header = () => {
             <h1 className="title is-size-1">
               Nick and Mary are Getting Married!!!
             </h1>
+            <br/>
             <h2 className="subtitle is-size-3">
-              Subtitle
+              October 14th, 2020
             </h2>
           </div>
         </div>
@@ -31,7 +32,6 @@ const Header = () => {
                 <li className="is-active"><a href="/">Wedding</a></li>
                 <li><a href="/photos">Photos</a></li>
                 <li><a href="/registries">Registries</a></li>
-                <li><a href="/rsvp">RSVP</a></li>
               </ul>
             </div>
           </nav>
