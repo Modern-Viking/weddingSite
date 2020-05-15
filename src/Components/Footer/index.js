@@ -1,5 +1,5 @@
 import React from "react";
-const Portfolio = "https://nicks-coding-world.herokuapp.com/"
+const Portfolio = "https://modern-viking.github.io/NicksCodingWorld/"
 
 const Footer = () => {
     return(

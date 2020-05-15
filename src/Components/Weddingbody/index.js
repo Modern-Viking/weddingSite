@@ -34,6 +34,7 @@ const Weddingbody = () => {
     </h2>
     </div>
     </div>
+    <br/>
     <div className="columns">
       <div className="column">
         <h1 className="subtitle">
