@@ -12,7 +12,7 @@ const Weddingbody = () => {
       The Big Day
     </h1>
     <h2 className="subtitle">
-      October 14, 2020
+      August 19, 2020
     </h2>
     </div>
     </div>
@@ -38,7 +38,7 @@ const Weddingbody = () => {
     <div className="columns">
       <div className="column">
         <h1 className="subtitle">
-          More information will be sent by invitation
+          More information will be available as it is decided
         </h1>
       </div>
     </div>

@@ -20,7 +20,7 @@ const Header = () => {
             </h1>
             <br/>
             <h2 className="subtitle is-size-3">
-              October 14th, 2020
+              August 19, 2020
             </h2>
           </div>
         </div>
