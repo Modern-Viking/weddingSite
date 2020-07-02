@@ -8,13 +8,13 @@ const Weddingbody = () => {
 
         <div className="column is-one-quarter">
             <div className="">
-                <img alt="black and white" src="../../Images/cleanEngagments/sqr-blk-wht.jpg"/>
+                <img alt="black and white" src=""/>
             </div>
         </div>
 
             <div className="column is-one-quarter">
             <div className="">
-                <img alt="love in the meadow" src="../../Images/cleanEngagments/option2.jpg"/>
+                <img alt="love in the meadow" src=""/>
             </div> 
         </div>
 
