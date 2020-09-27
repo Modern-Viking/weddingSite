@@ -19,7 +19,7 @@ const Weddingbody = () => {
     <div className="columns">
     <div className="column">
     <h1 className="title">
-      Utah Reception
+      <s>Utah Reception</s>
     </h1>
     <h2 className="subtitle">
       October 17, 2020 in Salt Lake City
@@ -35,13 +35,6 @@ const Weddingbody = () => {
     </div>
     </div>
     <br/>
-    <div className="columns">
-      <div className="column">
-        <h1 className="subtitle">
-          More information will be available as it is decided
-        </h1>
-      </div>
-    </div>
   </div>
 </div>
 </section>
