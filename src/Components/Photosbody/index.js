@@ -66,6 +66,102 @@ const Weddingbody = () => {
             </div> 
         </div>
 
+        <div className="column is-one-quarter">
+            <div className="">
+                <img alt="" src="https://github.com/Modern-Viking/weddingSite/blob/master/src/Images/clean%20wedding%20photos/Nick%20and%20Mary%20(30%20of%2075).jpg?raw=true"/>
+            </div> 
+        </div>
+
+        <div className="column is-one-quarter">
+            <div className="">
+                <img alt="" src="https://github.com/Modern-Viking/weddingSite/blob/master/src/Images/clean%20wedding%20photos/Nick%20and%20Mary%20(34%20of%2075).jpg?raw=true"/>
+            </div> 
+        </div>
+
+        <div className="column is-one-quarter">
+            <div className="">
+                <img alt="" src="https://github.com/Modern-Viking/weddingSite/blob/master/src/Images/clean%20wedding%20photos/Nick%20and%20Mary%20(40%20of%2089).jpg?raw=true"/>
+            </div> 
+        </div>
+
+        <div className="column is-one-quarter">
+            <div className="">
+                <img alt="" src="https://github.com/Modern-Viking/weddingSite/blob/master/src/Images/clean%20wedding%20photos/Nick%20and%20Mary%20(5%20of%2089).jpg?raw=true"/>
+            </div> 
+        </div>
+
+        <div className="column is-one-quarter">
+            <div className="">
+                <img alt="" src="https://github.com/Modern-Viking/weddingSite/blob/master/src/Images/clean%20wedding%20photos/Nick%20and%20Mary%20(52%20of%2075).jpg?raw=true"/>
+            </div> 
+        </div>
+
+        <div className="column is-one-quarter">
+            <div className="">
+                <img alt="" src="https://github.com/Modern-Viking/weddingSite/blob/master/src/Images/clean%20wedding%20photos/Nick%20and%20Mary%20(56%20of%2089).jpg?raw=true"/>
+            </div> 
+        </div>
+
+        <div className="column is-one-quarter">
+            <div className="">
+                <img alt="" src="https://github.com/Modern-Viking/weddingSite/blob/master/src/Images/clean%20wedding%20photos/Nick%20and%20Mary%20(60%20of%2075).jpg?raw=true"/>
+            </div> 
+        </div>
+
+        <div className="column is-one-quarter">
+            <div className="">
+                <img alt="" src="https://github.com/Modern-Viking/weddingSite/blob/master/src/Images/clean%20wedding%20photos/Nick%20and%20Mary%20(61%20of%2075).jpg?raw=true"/>
+            </div> 
+        </div>
+
+        <div className="column is-one-quarter">
+            <div className="">
+                <img alt="" src="https://github.com/Modern-Viking/weddingSite/blob/master/src/Images/clean%20wedding%20photos/Nick%20and%20Mary%20(64%20of%2089).jpg?raw=true"/>
+            </div> 
+        </div>
+
+        <div className="column is-one-quarter">
+            <div className="">
+                <img alt="" src="https://github.com/Modern-Viking/weddingSite/blob/master/src/Images/clean%20wedding%20photos/Nick%20and%20Mary%20(68%20of%2089).jpg?raw=true"/>
+            </div> 
+        </div>
+
+        <div className="column is-one-quarter">
+            <div className="">
+                <img alt="" src="https://github.com/Modern-Viking/weddingSite/blob/master/src/Images/clean%20wedding%20photos/Nick%20and%20Mary%20(7%20of%201).jpg?raw=true"/>
+            </div> 
+        </div>
+
+        <div className="column is-one-quarter">
+            <div className="">
+                <img alt="" src="https://github.com/Modern-Viking/weddingSite/blob/master/src/Images/clean%20wedding%20photos/Nick%20and%20Mary%20(72%20of%2089).jpg?raw=true"/>
+            </div> 
+        </div>
+
+        <div className="column is-one-quarter">
+            <div className="">
+                <img alt="" src="https://github.com/Modern-Viking/weddingSite/blob/master/src/Images/clean%20wedding%20photos/Nick%20and%20Mary%20(76%20of%2089).jpg?raw=true"/>
+            </div> 
+        </div>
+
+        <div className="column is-one-quarter">
+            <div className="">
+                <img alt="" src="https://github.com/Modern-Viking/weddingSite/blob/master/src/Images/clean%20wedding%20photos/Nick%20and%20Mary%20(77%20of%2089).jpg?raw=true"/>
+            </div> 
+        </div>
+
+        <div className="column is-one-quarter">
+            <div className="">
+                <img alt="" src="https://github.com/Modern-Viking/weddingSite/blob/master/src/Images/clean%20wedding%20photos/Nick%20and%20Mary%20(8%20of%201).jpg?raw=true"/>
+            </div> 
+        </div>
+
+        <div className="column is-one-quarter">
+            <div className="">
+                <img alt="" src="https://github.com/Modern-Viking/weddingSite/blob/master/src/Images/clean%20wedding%20photos/Nick%20and%20Mary%20(89%20of%2089).jpg?raw=true"/>
+            </div> 
+        </div>
+
     </div>
 </section>
     )
