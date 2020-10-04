@@ -8,7 +8,7 @@ const Weddingbody = () => {
 
         <div className="column is-one-quarter">
             <div className="">
-                <img alt="black and white" src="https://github.com/Modern-Viking/weddingSite/blob/master/src/Images/cleanEngagments/sqr-blk-wht.jpg?raw=true"/>
+                <img alt="black and white" src="https://github.com/Modern-Viking/weddingSite/blob/master/src/Images/clean%20wedding%20photos/Nick%20&%20Mary%20(22%20of%2075).jpg?raw=true"/>
             </div>
         </div>
 
